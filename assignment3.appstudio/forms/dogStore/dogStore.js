@@ -9,7 +9,7 @@ showBtn.onclick=function(){
     lbl.value= `${item}`
     }
 btn.onclick=function(){
-  let product = items.value
+  let product = things.value
   wishList.push(product)
   wishes.value  = `${wishList}`
 }
