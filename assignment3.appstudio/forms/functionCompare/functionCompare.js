@@ -8,6 +8,5 @@ function Compare(password1, password2){
   
 let password1 = prompt("What is your first password?")
 let password2 = prompt("What is your second password?")
-let passwordCompare = Compare(password1, password2)
-console.log(passCompare)
+let passCompare = Compare(pass1, pass2)
 */
