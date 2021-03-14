@@ -2,7 +2,7 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "green",
+  "background": "white",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
@@ -16,7 +16,7 @@
         "forms",
         "dogStore",
         "Elements",
-        "showBtn.json"
+        "Button1.json"
       ]
     },
     {
@@ -25,7 +25,25 @@
         "forms",
         "dogStore",
         "Elements",
-        "btn.json"
+        "Button2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "dogStore",
+        "Elements",
+        "Label1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "dogStore",
+        "Elements",
+        "Label2.json"
       ]
     }
   ],
