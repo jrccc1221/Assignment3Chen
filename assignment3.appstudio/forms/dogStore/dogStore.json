@@ -9,44 +9,7 @@
   "borderWidth": "",
   "cached_js": null,
   "cached_js_script_hash": null,
-  "children": [
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "dogStore",
-        "Elements",
-        "Button1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "dogStore",
-        "Elements",
-        "Button2.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "dogStore",
-        "Elements",
-        "Label1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "dogStore",
-        "Elements",
-        "Label2.json"
-      ]
-    }
-  ],
+  "children": [],
   "class": "",
   "designHeight": 0,
   "designWidth": 0,
